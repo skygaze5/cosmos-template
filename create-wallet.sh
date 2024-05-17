@@ -11,4 +11,4 @@ else
 fi
 
 $BINARY keys add $key
-$BINARY keys show $key --bech val
+$BINARY keys show $key --bech val 
